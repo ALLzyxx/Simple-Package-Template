@@ -1,4 +1,4 @@
-# Image Processing Toolkit
+# Simple Package Template
 Este repositório contém um modelo básico para a criação de pacotes Python. Ele serve como ponto de partida para estruturar projetos de forma organizada e reutilizável.
 Este modelo pode ser expandido para incluir múltiplos módulos e funcionalidades mais avançadas.
 
